@@ -24,4 +24,4 @@ Digital_Nurture_JavaFSE/
 - Core Java (Java 21)
 
 ## 👤 Author
-Mukil Subramani — CTS Digital Nurture FSE Program
+Dharanish S — CTS Digital Nurture FSE Program
